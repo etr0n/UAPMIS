@@ -1,4 +1,4 @@
-# UAPMIS – Urban Air Pollution Monitoring and Information System
+# UAPMIS – Urban Air Pollution Monitoring Information System
 
 UAPMIS is an urban air pollution monitoring information system designed to provide a clear and user-friendly interface for managing air quality sensors and analyzing environmental data. The system allows the user to add sensors and their details manually or
 through a public API. Also, the user can monitor air pollution data such as NO2, O3, SO2, CO, temperature, relative humidity, and pressure. In addition, the system provides the ability to subscribe to changes in air pollution measurement parameters such as PM2.5 and PM10.
